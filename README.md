@@ -1,2 +1,3 @@
 # Github-Profile-Finder
-Build a platform for finding github user's profile information
+Build a platform for finding GitHub users' profile information
+Link - https://gitofinder.vercel.app/
